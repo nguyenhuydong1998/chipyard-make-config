@@ -1,0 +1,10 @@
+/opt/shared/user/dongnh/chipyard/sims/verilator/generated-src/chipyard.TestHarness.TinyRocketConfig/uart.cc
+/opt/shared/user/dongnh/chipyard/sims/verilator/generated-src/chipyard.TestHarness.TinyRocketConfig/SimUART.cc
+/opt/shared/user/dongnh/chipyard/sims/verilator/generated-src/chipyard.TestHarness.TinyRocketConfig/SimUART.v
+/opt/shared/user/dongnh/chipyard/sims/verilator/generated-src/chipyard.TestHarness.TinyRocketConfig/testchip_tsi.cc
+/opt/shared/user/dongnh/chipyard/sims/verilator/generated-src/chipyard.TestHarness.TinyRocketConfig/SimSerial.cc
+/opt/shared/user/dongnh/chipyard/sims/verilator/generated-src/chipyard.TestHarness.TinyRocketConfig/SimSerial.v
+/opt/shared/user/dongnh/chipyard/sims/verilator/generated-src/chipyard.TestHarness.TinyRocketConfig/plusarg_reader.v
+/opt/shared/user/dongnh/chipyard/sims/verilator/generated-src/chipyard.TestHarness.TinyRocketConfig/remote_bitbang.cc
+/opt/shared/user/dongnh/chipyard/sims/verilator/generated-src/chipyard.TestHarness.TinyRocketConfig/SimJTAG.cc
+/opt/shared/user/dongnh/chipyard/sims/verilator/generated-src/chipyard.TestHarness.TinyRocketConfig/SimJTAG.v
